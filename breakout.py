@@ -13,7 +13,7 @@ file_path = os.path.join(os.path.dirname(__file__), 'breakout.log')
 logging.basicConfig(filename=file_path,
                     level=logging.INFO,
                     format="%(asctime)s - %(levelname)s - %(message)s",
-                    darefmt="%Y-%m-%d %H:%M:%S")
+                    datefmt="%Y-%m-%d %H:%M:%S")
 #
 
 # Setup screen
