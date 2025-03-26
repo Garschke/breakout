@@ -20,4 +20,4 @@ COLOR_SCORE = {"yellow": 1,
 ALIGNMENT = "center"
 FONT = ("Arial", 22, "normal")
 # Paddle
-INITIAL_PAUSE = True  # False
+INITIAL_PAUSE = False  # set to True to pause the game on launch
