@@ -3,9 +3,7 @@
 
 Clone of the 80s hit game Breakout using Python Turtle. The game consists of several components, each implemented in a separate Python file.
 
-<img src="src/breakout.gif" style="width: 300px; height=400px">
-
-<br>
+<img src="src/breakout.gif" style="width=450px; height=600px">
 
 #
 <!-- TABLE OF CONTENTS -->
@@ -77,15 +75,10 @@ python breakout.py   # PC
 ```
 
 2. Use the ⬅️ left and right ➡️ arrow keys to move the paddle and prevent the ball from dropping off the screen, and losing a life.
-
 3. Break all of the bricks on the screen with the ball to level-up and advance on to the next Level, and gain additional lives.
-
 4. Try to achieve the highest score possible by strategically bouncing the ball and breaking the bricks.
-
 5. If the ball misses the paddle and hits the bottom of the screen, you lose a life. The game continues until you have no lives left.
-
 6. Temporarily pause the game play by pressing the space bar, and resume the play by pressing the space bar a second time.
-
 7. When the game is over if you beat the current high-score, your new high-score will be saved in the game.
 
 #### 🎉  Enjoy the game and have fun!
